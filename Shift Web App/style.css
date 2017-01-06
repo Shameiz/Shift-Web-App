@@ -1,0 +1,131 @@
+h1 {
+  background-color: #333333;
+  color: white;
+  font-family: Century Gothic, serif;
+  font-size:7 0px;
+  text-align: center;
+}
+body
+{
+  background-color: #333333;
+  color: white;
+  font-family: Century Gothic, serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+button {
+  /*adjust the roundness*/
+  border-radius: 4px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  /*adjust height and width*/
+  /*change border colour*/
+  background-color: #4bc53f;
+  border-color:#4bc53f;
+  color: white;
+  font-family: Century Gothic, serif;
+  font-size: 30px;
+}
+
+select{
+  border-radius: 4px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  font-family: Century Gothic, serif;
+  font-size: 30px;
+}
+
+input
+{
+  /*adjust the roundness*/
+  border-radius: 4px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  /*adjust height and width*/
+  /*change border colour*/
+  /*background-color: #4bc53f;
+  border-color:#4bc53f;
+  color: white;*/
+  font-family: Century Gothic, serif;
+  font-size: 30px;
+}
+
+head
+{  
+  background-color: #4bc53f;
+  text-align: left;
+  font-size: 30px;
+}
+div
+{
+  margin: auto;
+  width: 60%;
+  color: white !important;
+  font-size: 30px;
+}
+.adp, .adp table
+{
+  color: white !important;
+  font-size: 30px;
+}
+
+.warnbox-content {
+  background: #fff1a8;
+  padding: 5px 6px;
+  visibility: hidden;
+  font-size: 30px;
+}
+.warnbox-c1, .warnbox-c2 {
+  background: #fff1a8;
+  font-size: 1px;
+  height: 1px;
+  overflow: hidden;
+  visibility: hidden;
+  font-size: 30px;
+}
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: grey;
+  color: black;
+  font-size: 30px;
+}
+.adp-placemark {
+  background: #eee;
+  border: 1px solid silver;
+  color: black;
+  cursor: pointer;
+  margin: 10px 0;
+  vertical-align: middle;
+  font-size: 30px;
+}
+
+a:link {
+  color: #4bc53f;
+}
+
+
+a:visited {
+  color: #4bc53f;
+}
+
+
+a:hover {
+  color: green;
+}
+
+li {
+  display: inline;
+}
+#login  {
+  background-color:white;
+  color:black;
+  border-color: dimgrey;
+} 
+h2
+{
+  text-align: right; 
+}
